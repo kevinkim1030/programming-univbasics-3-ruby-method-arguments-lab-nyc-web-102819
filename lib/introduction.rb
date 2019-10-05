@@ -5,7 +5,6 @@
 
 
 def introduction(name)
-  name = "Dan"
   puts "Hi, my name is #{name}."
 end
 
